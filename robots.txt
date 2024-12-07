@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zer0sh0t.github.io/sitemap.xml
